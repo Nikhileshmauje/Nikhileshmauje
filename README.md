@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhilesh Mauje</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhileshmauje&label=Profile%20views&color=0e75b6&style=flat" alt="nikhileshmauje" /> </p>
 
@@ -12,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/nikhilesh_mauje_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nikhilesh_mauje_24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhilesh-mauje/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhilesh-mauje/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/nikhileshmauje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/nikhileshmauje" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nikkkhilesh_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nikkkhilesh_24/" height="30" width="40" /></a>
+<a href="https://dev.to/nikhilesh_mauje_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nikhilesh_mauje_24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhilesh-mauje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilesh-mauje" height="30" width="40" /></a>
+<a href="https://codesandbox.com/nikhileshmauje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nikhileshmauje" height="30" width="40" /></a>
+<a href="https://instagram.com/nikkkhilesh_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikkkhilesh_24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
