@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React framework**
 
-- 💬 Ask me about **React, Frontend developement**
+- 💬 Ask me about **React, MERN Stack**
 
 - 📫 How to reach me **maujenikhilesh@gmail.com**
 
