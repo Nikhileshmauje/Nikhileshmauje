@@ -22,8 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhileshmauje&show_icons=true&locale=en" alt="nikhileshmauje" /></p>
 
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/nikhilesh_24?theme=light&font=Roboto&ext=heatmap" />  
-</p>
+
 
