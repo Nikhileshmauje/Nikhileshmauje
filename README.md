@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhileshmauje&label=Profile%20views&color=0e75b6&style=flat" alt="nikhileshmauje" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **DevOps and MLOps**
 
 - 📫 How to reach me **maujenikhilesh@gmail.com**
 
